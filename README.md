@@ -8,8 +8,8 @@
 
 <h2>Personal Projects:</h2>
   
-- <b><a href="https://github.com/CristianAC16/SingleStageReductionGearbox/blob/main/README.md">Backyard Shed</a></b>
-- <b><a href="https://github.com/CristianAC16/SingleStageReductionGearbox/blob/main/README.md">Squat rack</a></b>
+- <b><a href="https://github.com/CristianAC16/BackyardShed">Backyard Shed</a></b>
+- <b><a href="">Squat rack</a></b>
 
 <!-- BELOW will be added ABOVE once they are done in real-time:
 ***Add comment=> (Currently working on) next to a project***
