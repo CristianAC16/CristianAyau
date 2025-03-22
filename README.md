@@ -22,11 +22,11 @@
   - [Report](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [CAD Design](https://github.com/joshmadakor1/AD_PS)
   - [Pictures](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>Pressure Sprinkler</b>
+- <b>3D Printer</b>
   - [Report](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [CAD Design](https://github.com/joshmadakor1/AD_PS)
   - [Pictures](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>3D Printer</b>
+- <b>Pressure Sprinkler</b>
   - [Report](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [CAD Design](https://github.com/joshmadakor1/AD_PS)
   - [Pictures](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
