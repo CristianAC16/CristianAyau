@@ -1,15 +1,18 @@
-<h1>Hi, I'm Cristian! <br/><a href="https://github.com/CristianAC16">Mechanical Engineering Student</a></h1>
-
-<h2>University Projects:</h2>
-
-- <b><a href="https://github.com/CristianAC16/SingleStageReductionGearbox/blob/main/README.md">Single Stage Reduction Gearbox</a></b>
+<h1>Hi, I'm Cristian! <br/><a href="https://github.com/CristianAC16">Mechanical Engineering Student</a></h1> <h2>University Projects:</h2>
 
 - <b><a href="">Charging Cable Protector</a></b> [Presently]
 
+- <b><a href="https://github.com/CristianAC16/SingleStageReductionGearbox/blob/main/README.md">Single Stage Reduction Gearbox</a></b>
+
+- <b><a href="">Electrical Box</a></b>
+
 <h2>Personal Projects:</h2>
-  
+
+- <b><a href="">__________</a></b> [Presently]
+
 - <b><a href="https://github.com/CristianAC16/BackyardShed">Backyard Shed</a></b>
-- <b><a href="">Squat rack</a></b>
+
+<!-- - <b><a href="">Squat rack</a></b>
 
 <!-- BELOW will be added ABOVE once they are done in real-time:
 ***Add comment=> (Currently working on) next to a project***
